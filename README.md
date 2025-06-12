@@ -8,6 +8,7 @@
 
 该程序是一款专为 [VOA International Edition](https://www.voanews.com/z/7104) 节目设计的**可视化批量下载器**，通过自动翻页抓取节目详情页、提取音频链接（优先高质量 `_hq.mp3`），实现便捷、可控的日期范围批量下载。
 
+![](https://github.com/JustinYostar/VOA-International-Edition-Download/blob/main/screenshot.png?raw=true)
 
 ## ✨ 功能特点
 
